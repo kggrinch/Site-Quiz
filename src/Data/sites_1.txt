@@ -1,0 +1,6 @@
+Colosseum,Italy,59.11,Rome,116631.0
+Eiffel Tower,France,67.75,Paris,213011.0
+Stonehenge,England,55.98,London,50301.0
+Plitvice Lakes,Croatia,3.899,Zagreb,21851.0
+Angkor Wat,Cambodia,16.59,Phnom Penh,69898.0
+Great Pyramid of Giza,Egypt,109.3,Cairo,386900.0

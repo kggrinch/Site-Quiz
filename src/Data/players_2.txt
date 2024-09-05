@@ -1,0 +1,12 @@
+Paul George,33,0,0
+Klay Thompson,33,5,5
+Jamal Adams,27,0,0
+DeKaylin Metcalf,25,0,0
+Bobby Wagner,33,0,0
+Devon Witherspoon,33,0,0
+Geno Smith,32,0,0
+Jaxon Smith,21,0,0
+Kobe Bryant,41,3,3
+LeBron James,38,0,0
+Micheal Jordan,60,0,0
+Stephen Curry,35,0,0

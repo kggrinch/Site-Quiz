@@ -1,0 +1,6 @@
+Stephen Curry,35,4,4
+Klay Thompson,33,2,4
+Kobe Bryant,41,1,6
+LeBron James,38,4,4
+Micheal Jordan,60,0,0
+Paul George,33,0,0
